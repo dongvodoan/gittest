@@ -1,2 +1,2 @@
 # gittest
-hello world everybody!
+hello world!
