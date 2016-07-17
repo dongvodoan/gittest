@@ -10,6 +10,7 @@
 	git config --global user.name "username your account github"
 	git config --global user.email "email that you register account in github"
   ->OK! when you push up master that it will request username and password account of github
+
   @way 2: SSH key
 
   @way 3: SSH file
